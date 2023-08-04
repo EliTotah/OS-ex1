@@ -84,9 +84,7 @@ queue size = [size]
 
 Co-Editor queue size = [size]
 
-For example, the following is a legals configurations files: 
-
-Option 2:
+For example, the following is a legals configuration file: 
 
 1
 
